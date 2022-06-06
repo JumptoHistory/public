@@ -11,4 +11,4 @@ log = "^0.4.6"
 markov = "^1.1.0"
 rand = "^0.8.3"
 simplelog = "^0.10.0"
-tokio = { version = "0.2", features = ["full"] }
+tokio = { version = "1.8", features = ["full"] }
